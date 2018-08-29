@@ -42,7 +42,7 @@ può non essere il business, più delizioso per chi che non è molto appassionat
 ma per tutti è sicuramente il miglior affare che si può fare se
 si punta a ottenere dividendi cosi come la soddisfazione di raggiungere obiettivi di natura sociale.</p>
 
-<a class="boton icono vermas_it"  href="interna.php"></a>
+<a class="boton icono vermas_it"  href=""></a>
 
 </div>
 <!-- // cerro texto -->

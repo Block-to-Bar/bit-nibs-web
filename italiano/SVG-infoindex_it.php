@@ -23,7 +23,7 @@ contratti intelligenti sono in grado di garantire, ragiungiremo essere
 referenti di qualsiasi istituzione su come fare le cose in un modo così aperto e democratico 
 finora solo è stato sognato.</p>
 
-<a class="boton icono vermas_it" href="interna.php"></a>
+<a class="boton icono vermas_it" href=""></a>
 
 </div>
 <!-- // cerro texto -->
