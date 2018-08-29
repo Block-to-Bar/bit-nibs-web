@@ -40,7 +40,7 @@ ne peut pas être l'affaire, le plus délicieux pour ceux qui ne sont pas très 
 mais pour tous est sûrement la meilleure affaire que vous pouvez faire si
 le but est d'obtenir des dividendes ainsi que la satisfaction de la réalisation des objectifs sociaux.</p>
 
-<a class="boton icono vermas_fr"  href="interna.php"></a>
+<a class="boton icono vermas_fr"  href=""></a>
 
 </div>
 <!-- // cerro texto -->

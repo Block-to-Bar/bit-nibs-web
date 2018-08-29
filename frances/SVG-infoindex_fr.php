@@ -21,7 +21,7 @@ qui sont les aspects caractéristiques du blockchain et des contrats intelligent
 nous deviendrons une référence pour toutes ces industries qui ont le rêve davoir 
 une administration ouverte et démocratique tel que la nôtre.</p>
 
-<a class="boton icono vermas_fr" href="interna.php"></a>
+<a class="boton icono vermas_fr" href=""></a>
 
 </div>
 <!-- // cerro texto -->
