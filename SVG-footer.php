@@ -22,7 +22,7 @@
 </div>
 
 <div id="f02" class="footerbloque">
-<h1>nuestras páginas</h1>
+<h1>nuestro contacto</h1>
 <a href="">chocosfera.com</a>
 <a href="">chococoin.org</a>
 </div>
