@@ -5,8 +5,7 @@
 <title>Bits / Nibs</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" type="text/css" href="estilos.css">
-<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-<link rel="icon" href="/favicon.ico" type="image/x-icon">
+
 <script src="http://code.jquery.com/jquery-latest.js"></script>
 <script src="SVsystem/js/utils.js"></script>
 <script>
@@ -22,7 +21,7 @@
 
 </head>
 
-<body class="interno">
+<body class="entrevista">
 
 <?php include ("SVG-barra.php")?>
 <div id="separabarra"></div>
@@ -35,7 +34,7 @@
 <div id="caja" style="background-image:url(SVimagenes/001.jpg)">
 
 
-<h1>Titulo nivel  1</h1>
+<h1>Titulo nivel  222222222222222</h1>
 
 
 </div>
@@ -95,24 +94,3 @@
 
 
 
-
-
-
-<?php include ("SVG-footer.php")?>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</body>
-</html>

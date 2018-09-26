@@ -59,6 +59,7 @@
 
 				<ol>
 					<li>Speculators searching for a short term monetary benefit</li>
+					<br>
 					<li>People who like to be cheated investing in fake promises made in a web page.</li>
 				</ol>
 
@@ -66,14 +67,15 @@
 
 				<ol>
 					<li>Investment angels or early adopters who look forward to investing in a bootstrap destined to become a startup in the medium term.</li>
+					<br>
 					<li>People interested not only in making money but also people interested in investing in companies that can originate social values.</li>
+					<br>
 					<li>People who can’t make a monetary investment but who have the time and the aptitudes to generate assets within the project by practicing crowsourcing and by participating in other activities within the project.</li>
 				</ol>
 				</div>
 
 			<div id="segmentos">
-				<h2>#1</h2>
-				<div class="info" title="Defines the groups or segments of people or entities we want to attract with our Value Proposal"><img src="../../SVimagenes/mark.png" alt="question mark"></div>
+				<div class="info" title="Defines the groups or segments of people or entities we want to attract with our Value Proposal"></div>
 				<h1>Market Segments</h1>
 				
 
@@ -88,25 +90,30 @@
 
 				<p>In order to assure the desired sales volume, we will diversify, as much as possible, the market segments with which we are going to work.</p>
 
+				<br>
+
 				<table>
 					<tr>
-						<th><strong>Mass Market</strong></th>
 						<th><strong>Segmented Market</strong></th>
 						<th><strong>Market Niche</strong></th>
-						<th><strong>MDiversified Market</strong></th>
-						<th><strong>Multilateral Platforms</strong></th>
+						<th><strong>Diversified Market</strong></th>
 					</tr>
-						<td>This project is opened to the general public. Everyone eats chocolate.</td>
 						<td>Latin American coca, especially Venezuelan cocoa, is one of the most appreciated ingredients for chefs who want to create food to satisfy the most demanding palates.</td>
 						<td>We can also create products and offer services destined to different market segments. In fact, creating products to the emerging market of prosumers entails the application of a segmented market strategy.</td>
 						<td>All of our activities are mainly focused on chocolate, but we could easily diversify our market, satisfying other wishes of our traditional clients.</td>
+				</table>
+				<br>
+				<table>
+					<tr>
+						<th><strong>Mass Market</strong></th>
+						<th><strong>Multilateral Platforms</strong></th>
+					</tr>
+						<td>This project is opened to the general public. Everyone eats chocolate.</td>
 						<td>We create a direct link between consumers and producers.</td>
 				</table>
-				</div>
 
 			<div id="propuesta">
-				<h2>#2</h2>
-				<div class="info" title="benefits we offer to the group of clients of the #1 point."><img src="../../SVimagenes/mark.png" alt="question mark"></div>
+				<div class="info" title="benefits we offer to the group of clients of the #1 point."></div>
 				<h1>The Value Proposition</h1>
 				
 				<p>The main objective of the Bit&amp;Nibs Project is to sell chocolate and cocoa, our chocolate and other people’s chocolate. The value proposition, in this case, is focused in the way we are going to develop the selling of these products.</p> 
@@ -116,27 +123,24 @@
 				<p>In this specific aspect the Bit&amp;Nibs Project will be innovative, because it will guaranty its transparency throughout the technology of the block chain and the smart contracts.</p>
 
 				<p>Another aspect of our value proposition is related to entertainment and pedagogy. We understand that a change in the world is imminent, so we want to participate in that change and make our clients feel as if they are the most important elements of this project.</p>
-				<p>
-
-				<dl>
-					<dt><strong>Innovative Products and Services:</strong></dt>
-						<dd> Our main product will be a web page destined to offer our group of products and the products of other people. A web page where you can offer services and products is not innovative, but our main innovative element is the use of the cryptocoin as a marketing tool.</dd>
-					<dt><strong>Price:</strong></dt>
-						<dd>Firstly, we want to offer a broad range of products made by third parties so we must contemplate a wide array of prices. This array of prices may extend from the products offered as reward for loyalty, to products destined to specialized market segments. The prices will be set in accordance to the markets’ expectations.</dd> 
-					<dt><strong>Brand ansd Status:</strong></dt>
-						<dd>The identity of the project is linked to the third industrial revolution and its characteristics. We want to raise awareness among our clients regarding this subject.<br>Therefore, we will be the first chocolate company of the world which works focusing in this concept. Our brand will be known for everyone and will be unique because it will highlight a “chocolate for geeks”.</dd>
-					<dt><strong>Cost Reduction:</strong></dt>
-						<dd>A very important number of our activities will be carried out in Venezuela, a country that nowadays has the cheapest and qualified labor of the world. This will allow us to have very competitive prices without sacrificing the retributions of our holders.</dd>
-					<dt><strong>Access:</strong></dt>
-						<dd>The access to our products will be another factor raising the value of our company. The figure of the prosumers will be a key factor to the ubiquity of our products.</dd>
-					<dt><strong>Use/Comfort:</strong></dt>
-						<dd>A great part of our proposal is based on entertainment and pedagogy. When acquiring our products our clients will have access to the chococoins. Since the chocoins are marketing products, they will allow our clients to unlock games and programming courses destined to the whole family.</dd>
-				</dl>
+				
+				         <p><strong>Innovative Products and Services:</strong>
+						 Our main product will be a web page destined to offer our group of products and the products of other people. A web page where you can offer services and products is not innovative, but our main innovative element is the use of the cryptocoin as a marketing tool.</p>
+					     <p><strong>Price:</strong>
+						 Firstly, we want to offer a broad range of products made by third parties so we must contemplate a wide array of prices. This array of prices may extend from the products offered as reward for loyalty, to products destined to specialized market segments. The prices will be set in accordance to the markets’ expectations.</p> 
+					     <p><strong>Brand ansd Status:</strong>
+						 The identity of the project is linked to the third industrial revolution and its characteristics. We want to raise awareness among our clients regarding this subject.<br>Therefore, we will be the first chocolate company of the world which works focusing in this concept. Our brand will be known for everyone and will be unique because it will highlight a “chocolate for geeks”.</p>
+					     <p><strong>Cost Reduction:</strong>
+						 A very important number of our activities will be carried out in Venezuela, a country that nowadays has the cheapest and qualified labor of the world. This will allow us to have very competitive prices without sacrificing the retributions of our holders.</p>
+					     <p><strong>Access:</strong>
+						 The access to our products will be another factor raising the value of our company. The figure of the prosumers will be a key factor to the ubiquity of our products.</p>
+					     <p><strong>Use/Comfort:</strong>
+						 A great part of our proposal is based on entertainment and pedagogy. When acquiring our products our clients will have access to the chococoins. Since the chocoins are marketing products, they will allow our clients to unlock games and programming courses destined to the whole family.</p>
 				</div>
+				<br>
 
 			<div id="canales">
-					<h2>#3</h2>
-					<div class="info" title="This part analyzes who does a company reaches the chosen client market (#1) to bring them the value proposition (#2)"><img src="../../SVimagenes/mark.png" alt="question mark"></div>
+					<div class="info" title="This part analyzes who does a company reaches the chosen client market (#1) to bring them the value proposition (#2)"></div>
 					<h1>Channels</h1>
 					
 					<p>Logistics is one of the many important aspects to consider when taking part in any successful project, particularly regarding the way in which the clients are going to obtain the products without regards to the location of the client (delivery). </p>
@@ -157,10 +161,10 @@
 					<p>Regarding the after-sales, we want to keep in touch with our clients in order to know the client’s opinion related to our products, new business proposals and improvements.</p>
 
 					</div>
+					<br>
 
 			<div id="relaciones">
-				<h2>#4</h2>
-				<div class="info" title="This part analyzes how the company creates links with the clients defined in point #1"><img src="../../SVimagenes/mark.png" alt="question mark"></div>
+				<div class="info" title="This part analyzes how the company creates links with the clients defined in point #1"></div>
 				<h1>Relations with our Clients</h1>
 				
 				 <p>We will establish different levels of communication with our clients in accordance to the type of service or product the client acquires.</p>
@@ -177,30 +181,30 @@
 				<p><strong>Collective Creation:</strong></p>
 				<p> The webpage will also encourage artistic creations. Each user will have an open space or gallery to show his or her pieces of art and where they will receive the feedback of other users. They will also have the possibility of selling, exchanging or donating their artistic creations.</p> 
 				</div>
+				<br>
 
 			<div id="fuente">
-				<h2>#5</h2>
-				<div class="info" title="This part represents the money the company obtains from each of the market segments highlighted in point #1."><img src="../../SVimagenes/mark.png" alt="question mark"></div>
+				<div class="info" title="This part represents the money the company obtains from each of the market segments highlighted in point #1."></div>
 				<h1>Source of Income</h1>
 				
 
 				<p><strong>By selling products and offering services:</strong></p>
 				<p>The main source of incomes will be the selling of products with fixed prices to the consumers. We will also consider offered services to the producers as a source of incomes, such as advertisements in our webpage.</p>
 				</div>
+				<br>
 
 			<div id="recursos">
-				<h2>#6</h2>
-				<div class="info" title="In this part we must identify the most important elements for the correct functioning of a business"><img src="../../SVimagenes/mark.png" alt="question mark"></div>
+				<div class="info" title="In this part we must identify the most important elements for the correct functioning of a business"></div>
 				<h1>Key Resources</h1>
 				
 				<p>Our key resources are focused in the human dimension we want to acquire through the use of disruptive concepts and technologies, such as the block chains and the smart contracts. We believe that this kind of technology can change the world, and we are sure that this will change the world during the third industrial revolution.</p>
 
 				<p>We want to have a voice in these moments of change and we want to offer a voice too to the ones that do not have or cannot find their own voices.</p>
 				</div>
+				<br>
 
 			<div id="actcl">
-				<h2>#7</h2>
-				<div class="info" title="In this part we must identify the most important activities a company should develop for the correct functioning of the business model."><img src="../../SVimagenes/mark.png" alt="question mark"></div>
+				<div class="info" title="In this part we must identify the most important activities a company should develop for the correct functioning of the business model."></div>
 				<h1>Key Activities</h1>
 				
 				<p><strong>Services:</strong></p>
@@ -208,19 +212,19 @@
 				<p><strong>Platform:</strong></p>
 				<p>The creation of a webpage with all the features that we have in mind will allow the interaction of the client with limitless possibilities. On the one hand, it will encourage the client’s loyalty; and on the other hand it will multiply our opportunities to create new sources of incomes, such as the merchandising.</p>
 				</div>
+				<br>
 
 			<div id="asoclav">
-				<h2>#8</h2>
-				<div class="info" title="In this part we must identify the network of providers and strategic partners for the correct functioning of the business model"><img src="../../SVimagenes/mark.png" alt="question mark"></div>
+				<div class="info" title="In this part we must identify the network of providers and strategic partners for the correct functioning of the business model"></div>
 				<h1>Key Associations</h1>
 				
 
 				<p>The key associations of the project will be formed by the clients themselves. We want the clients to take part in the company’s achievements and activities, including the activities that will have a social impact and the activities that will increase the value of the project. Particularly, we want our clients to take part in the dynamics of crowdsourcing.</p> 
 				</div>
+				<br>
 
 			<div id="costos">
-				<h2>#9</h2>
-				<div class="info" title="In this last part we will analyze all the costs linked to the development of the business model."><img src="../../SVimagenes/mark.png" alt="question mark"></div>
+				<div class="info" title="In this last part we will analyze all the costs linked to the development of the business model."></div>
 				<h1>Costs Structure</h1>
 				
 				<p><strong>Model Driven by Costs:</strong></p>

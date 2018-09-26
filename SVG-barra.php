@@ -1,7 +1,6 @@
 <!-- barra fija  -->
 <div id="barra">
 <a href="#carrusel" id="logo" class="enelindex"><img src="SVimagenes/logo.png"></a>
-<a href="index.php" id="logo" class="interno"><img src="SVimagenes/logo.png"></a>
 
 <div id="botonera">
 
