@@ -48,9 +48,7 @@
 
 <?php include ("SVG-chocolate.php")?>
 
-<!-- SECCIÓN DE ENTREVISTAS  -->
 <?php include ("SVG-entrevistas.php")?>
-<!-- ********************** -->
 
 <?php include ("SVG-footer.php")?>
 

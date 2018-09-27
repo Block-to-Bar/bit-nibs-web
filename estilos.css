@@ -945,8 +945,9 @@ text-transform:capitalize;}
     margin:0 auto 20px auto;
 }
 
-.tabla{ border-bottom: 1px solid #ddd;
-	padding: 0px;
+.tabla{ 
+	position: relative;
+	border-bottom: 1px solid #ddd;
 }
 
 #frase h3 {
@@ -973,16 +974,14 @@ text-transform:capitalize;}
 
 #cajafoto{ 
 	position: relative;
-	text-align: center;
     background-position:right;
-	height:700px;
-	width: 700px;
 	-moz-background-size: 100% auto;  
  	-o-background-size: 100% auto;  
  	-webkit-background-size: 100% auto;  
  	background-size: 100% auto;
 	margin:0 0 0 0; 
 	background-repeat: no-repeat;
+	line-height: 0;
 }
 
 #sumario{
@@ -1045,11 +1044,9 @@ text-transform:capitalize;}
 }
  
  #foto{
- 	float: center;
+ 	padding: 3% 5% 3% 5%;
  	position:relative; 
- 	text-align: center;
- 	height: auto;
- 	width: auto; 
+ 	background-position:center center; 
 }
 
 /*Cierre entrevistas*************************************/

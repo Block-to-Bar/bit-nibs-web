@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>Bits / Nibs</title>
+<style>  img {max-width: 100%} </style>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" type="text/css" href="estilos.css">
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
@@ -41,7 +42,7 @@
 	         <h4>“El sector cacaotero venezolano se está preparando para un nuevo país”</h4> </div>
 	    </td>
 	    <td>
-	    <div id="cajafoto" style="background-image:url(SVimagenes/MF1.jpg)"></div>
+	    <div id="cajafoto"> <img style="width: 230vw; height: auto;"  src="SVimagenes/MF1.jpg" alt="Maria Fernada Di Giacobbe"></div>
 	   </td>
 	</tr>
  </table>
@@ -76,6 +77,8 @@
 
 <div id="parrafo"><p> —Soy una terca. Si Venezuela tiene esos tesoros, es como inconsciente no utilizarlos. Yo había trabajado en la gastronomía, pensando en todos los ingredientes y recetas que tenemos, pero cuando te atrapa el cacao te quedas con él y con el chocolate para siempre. De todos los ingredientes que tiene Venezuela este es el que más nos identifica y el que corre por nuestras venas y por nuestro ADN. Así que se me puso fácil la cosa. </p></div>
 
+<div id="foto"><img style="width: 79vw ; height: auto;"  src="SVimagenes/MF2.jpg" alt="Maria Fernada Di Giacobbe"></div>
+
 <div id="pregunta"> <p> —Cuéntame más sobre tus inicios en el mundo del chocolate. ¿Tenías una experiencia previa antes incursionar en el movimiento bean to bar? </p> </div>
 
 <div id="parrafo"><p> —Mi mamá es repostera, ella hace una torta famosa que se llama “Torta Maruja”, que es con chocolate. Pero también vengo de una familia de gente que es cocinera, los antepasados eran campesinos, los otros fueron vendedores de alimentos, teníamos abastos, mi mamá es cocinera y repostera, todas mis tías hacen dulces criollos, no había manera. Mi primer trabajo fue en chocolate para St. Moritz, como yo estudié arte me contrataron para hacer empaques. Tenía 18 o 20 años, así que ese fue mi primer trabajo. Ya tengo como 30 en el mundo del cacao y del chocolate, y los últimos 15 muy enfocada en las plantaciones. </p></div>
@@ -85,6 +88,8 @@
 <div id="pregunta"><p> —¿Qué significó esa experiencia en St. Moritz haciendo empaques para tu ingreso al mundo del chocolate y el cacao? </p> </div>
 
 <div id="parrafo"><p> —Allí yo me metía a los laboratorios a hacer los chocolates y a probar como sabe con esto y con aquello. Siempre con una perspectiva muy venezolana. Todas las bombonerías trabajaban con avellanas, almendras, nueces, brandy, champaña. Entonces pensé, ¿por qué no le ponen merey, maní o macadamia de Lara? Es una especie de unir lo que era el chocolate con la historia gastronómica de nosotros y la memoria gustativa. Es como hacer un bombón de tipiaro. </p></div>
+
+<div id="foto"><img style="width: 79vw ; height: auto;"  src="SVimagenes/MF4.jpg" alt="Cacao de Origen"></div>
 
 <div id="pregunta"><p> —¿Cómo se crea Cacao de Origen?  </p></div>
 
@@ -103,6 +108,8 @@
 <div id="pregunta"> <p> —¿Es el cacao venezolano el mejor del mundo? </p> </div>
 
 <div id="parrafo"><p> —Nosotros hemos hecho aquí chocolates con distintos orígenes y nos llega un cacao ecuatoriano bien fermentado, bien seco, parejo en el tamaño; pero cuando lo conviertes en chocolate, no tiene tanta diversidad de tonos ni matices. Nos llega un cacao de Perú, y es rico, riquísimo, pero no es persistente en boca, no tiene durabilidad; y cuando lo temperas y lo empaquetas, a los tres meses lo pruebas y perdió mucho sabor. Nos llega un cacao de Colombia y es un poco más rústico, sabe más a café y a tabaco. Nos llega un cacao de Brasil y tiene unos componentes de la tierra como metales pesados o minerales que salen en el chocolate. Y hacemos un chocolate con cacao venezolano y es muy alegre, es muy cítrico, tiene picos, que se podrían corregir con una buena fermentación. Pero cuando pruebas un Chuao es fuegos artificiales. Sin embargo, si te dan un Guasare que es el cacao más antiguo del mundo, que nace en la Sierra de Perijá, y no está fermentado y seco, a pesar de que todas sus semillas sean blancas y no tienen taninos, tiene unas astringencias insoportables. Entonces el cacao está hablando: “si no me haces bien, no va a salir un chocolate como puede salir”. Ese es el empeño, tenemos la parte genética muy buena. Tenemos un terroir tan diverso que hay llano, sabana, valle, montaña, costa. Falta trabajo, falta levantarse, dejar de quejarnos y decir “somos tan pobres, no me ayuda a nadie”. Si lo ves desde ese punto de vista, es un país donde la página se puede escribir desde el principio. </p></div>
+
+<div id="foto"><img style="width: 79vw ; height: auto;" src="SVimagenes/MF3.jpg" alt="Maria Fernada Di Giacobbe" ></div>
 
 <div id="pregunta"> <p> —¿Qué se debe hacer en Venezuela para competir con las grandes marcas del mundo? </p> </div>
 
