@@ -1,36 +1,33 @@
 <!--Entrevistas-->
-<div class="color" >
-<table  id="entrevistas">
-
-    <tr>
-        <td  class="center">
-            <h2>
-                ¡Nuestras entrevistas!
-            </h2>
-            <h3>
-                En esta sección encontrarás entrevistas sobre el mundo del cacao y el chocolate
-            </h3>
-        </td>
-    </tr>
-    <tr>
-        <td class="center">
-            <div class="bloque">
-                <div class="foto-entrevista">
-                    <img src="SVimagenes/MF0.jpg">
-                </div>
-                <p class="cita tamano-texto">
-                   “El sector cacaotero venezolano se está preparando para un nuevo país”
-                </p>
-            </div>
-            <a  class="boton-entrevista" href="entrevista1.php">
-                <div class="contenido-boton nombre">
-                     Maria Fernanda Di Giacobbe
-                </div>
-                <small class="contenido-boton tamano-texto">
-                     Chocolatier
-                </small>
-            </a>
-        </td>
-    </tr>
-</table>
+<style>  img {max-width: 100%} </style>
+<div id="fondo">
+<div id="title">
+<h3>¡Lee nuestras entrevistas!</h3>
 </div>
+ <div class="wrap">
+            <ul class="flexblock gallery">
+              <li>
+                <a href="entrevista2.php">
+                  <figure>
+                    <img alt="Profesora Rosa Spinosa" src="SVimagenes/RS0.jpg">
+                    <figcaption>
+                      <h2>Rosa Spinosa</h2>
+                      <p>“Creo que Venezuela saldrá adelante si se enfoca en el cacao”</p>
+                    </figcaption>
+                  </figure>
+                </a>
+              </li>
+              <li>
+                <a href="entrevista1.php">
+                  <figure>
+                    <img alt="Maria Fernanda Di Giacobbe" src="SVimagenes/MF0.jpg">
+                    <figcaption>
+                      <h2>Maria Fernanda Di Giacobbe</h2>
+                      <p>“El sector cacaotero venezolano se está preparando para un nuevo país”</p>
+                    </figcaption>
+                  </figure>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
