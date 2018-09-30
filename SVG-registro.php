@@ -3,7 +3,7 @@
 <!-- cerro inner -->
 <div class="inner" id="registroinner">
 
-<h1>únete al proyecto</h1>
+<h1>¿Quieres saber más sobre el proyecto?</h1>
 
 <p>El proyecto Bit&amp;Nibs busca inversores y colaboradores que quieran protagonizar junto a nosotros la creación de una startup 100% basada en el poder de la blockchain y de los contratos inteligentes. ¡Seamos todos juntos la referencia del nuevo mundo que está por nacer!</p>
 

@@ -50,7 +50,19 @@
 
 				<p>El proyecto Bit&amp;Nibs no sólo será una plataforma para que personas tengan la posibilidad de generar ingresos extra, sino que el proyecto también, representa una búsqueda de modelo de negocio más transparente y justo, que pueda influenciar otras esferas de la sociedad, con el fin de adoptar modelos de negocios que beneficien a todos sin excepción.</p>
 
-				</div>
+				<br>
+
+				<h2>Misión:</h2>
+
+				<p>Garantizar la trazabilidad del cacao fino de aroma venezolano con la implementación de las nuevas tecnologías, tales como la cadena de bloques y los contratos inteligentes.</p>
+
+				<br>
+
+				<h2>Visión:</h2>
+
+				<p>Ser un referente para cualquier institución agroalimentaria en Venezuela y el mundo que desee administrarse de forma abierta, transparente y honesta.</p>
+
+			    <div> 
 
 			<div id="quien">
 				<h2>¿A quién va dirigida esta presentación?</h2>
@@ -59,6 +71,7 @@
 
 				<ol>
 					<li>No va dirigida a especuladores que buscan un beneficio a corto plazo.</li>
+					<br> 
 					<li> Ni a personas que prefieren dejarse engañar invirtiendo en promesas fabulosas de una página.</li>
 				</ol>
 
@@ -66,14 +79,15 @@
 
 				<ol>
 					<li>Ángeles inversionistas o <em>early</em> adopters que buscan invertir sobre seguro en una <em>bootstrap</em> destinada a ser una startup a mediano plazo.</li>
+					<br> 
 					<li>Personas que además de estar interesadas en invertir para obtener un retorno en dividendos buscan invertir en empresas que generen valor social.</li>
+					<br>
 					<li>Personas que no disponen de capital para invertir, pero en cambio disponen de tiempo y capacidades, no sólo para generar valor dentro del proyecto por medio de la práctica del crowsoucing, sino también disponer de otras vías alternativas de entrar a formar parte del proyecto.</li>
 				</ol>
 				</div>
 
 			<div id="segmentos">
-				<h2>#1</h2>
-				<div class="info" title="Define a los grupos o segmentos de personas o entidades que queremos alcanzar con nuestra propuesta de Valor"><img src="../SVimagenes/mark.png" alt="signo de interrogacion"></div>
+				<div class="info" title="Define a los grupos o segmentos de personas o entidades que queremos alcanzar con nuestra propuesta de Valor"></div>
 				<h1>Segmentos de Mercado</h1>
 				
 
@@ -88,26 +102,32 @@
 				<p>De este modo, el principal objetivo es focalizar el esfuerzo en generar un volumen alto de transacciones de baja comisión.</p>
 
 				<p>Con el fin de asegurar el volumen de ventas deseado, se diversificará en la medida de lo posible los segmentos de mercados con los cuales trabajar.</p>
-
+                
+                <br>
+              
 				<table>
 					<tr>
-						<th><strong>Mercado de Masas</strong></th>
 						<th><strong>Mercado segmentado</strong></th>
 						<th><strong>Mercado de Nicho</strong></th>
 						<th><strong>Mercado diversificado</strong></th>
-						<th><strong>Plataformas multilaterales</strong></th>
 					</tr>
-						<td>Apuntamos a todo pùblico. Todos sin excepción comen chocolate</td>
 						<td>El cacao latinoamericano, en especial el cacao venezolano, es muy apreciado por los chefs que buscan crear productos para paladares exigentes.</td>
 						<td>Podemos también crear productos y servicios destinados a diferentes segmentos del mercado. De hecho, crear productos para el incipiente mercado de los <em>prosumidores</em> implica, necesariamente, aplicar una estrategia de mercados segmentados.</td>
 						<td>En principio todas nuestras actividades giraran en torno al chocolate, pero fácilmente podríamos  diversificar el mercado, satisfaciendo otros deseos de nuestros clientes tradicionales.</td>
-						<td>Ponemos en contacto directo productores y consumidores.</td>
+						
 				</table>
-				</div>
+				<br>
+				<table>
+					 <tr>
+					    <th><strong>Mercado de Masas</strong></th>
+						<th><strong>Plataformas multilaterales</strong></th>
+					 </tr>
+					    <td>Apuntamos a todo pùblico. Todos sin excepción comen chocolate</td>
+					    <td>Ponemos en contacto directo productores y consumidores.</td>
+				</table>
 
 			<div id="propuesta">
-				<h2>#2</h2>
-				<div class="info" title="conjunto de beneficios que la actividad ofrece a los clientes del punto #1."><img src="../SVimagenes/mark.png" alt="signo de interrogacion"></div>
+				<div class="info" title="conjunto de beneficios que la actividad ofrece a los clientes del punto #1."></div>
 				<h1>Propuesta de Valor</h1>
 				
 				<p>El proyecto Bit&amp;Nibs  tiene como objetivo la venta de chocolate y cacao, tanto propio como de terceros. La propuesta de valor, en este caso, se fundamentará en la manera en la que desarrolle esta actividad.</p> 
@@ -117,27 +137,23 @@
 				<p>El proyecto Bit&amp;Nibs ofrecerá una innovación en ese aspecto, garantizando la transparencia por medio de la tecnología de la cadena de bloque y los contratos inteligentes.</p>
 
 				<p>Otro aspecto importante de nuestra propuesta de valor radicará en el entretenimiento y la pedagogía. Entendemos que el cambio en el mundo es inminente, por lo tanto queremos formar parte de dicho cambio y hacer sentir a nuestros clientes que son el factor más importante en este proceso.</p>
-				<p>
 
-				<dl>
-					<dt><strong>Productos y servicios novedosos:</strong></dt>
-						<dd>Nuestro producto central será una página web destinada a ofrecer el conjunto de nuestros productos y los productos de terceros. Una página web en la cual se ofrecen servicios y productos no es algo novedoso, pero nuestra distinción se basa en la utilización de una <em>cryptomoneda</em> como herramienta de marcadeo.</dd>
-					<dt><strong>Precio:</strong></dt>
-						<dd>Queremos ofrecer una amplia gama de productos realizados por terceros en un primer estadio, por lo tanto debemos contemplar una amplia gama de precios. Estos pueden partir desde los productos que se ofrecen como premio a la fidelidad a productos destinados a segmentos de mercado especializado, con precios a la altura de la expectativas de dichos mercados.</dd> 
-					<dt><strong>Marca y Estatus:</strong></dt>
-						<dd>La identidad del proyecto está vinculada a la tercera revolución industrial y sus características, y queremos despertar consciencia a nuestros clientes sobre ese hecho.<br>Por tanto, seremos la primera compañía de chocolate del mundo que trabaje en torno a ese concepto. Convirtiéndolo en algo público y notorio en la personalidad de nuestra marca, y vinculándolo de algún modo a la idea de "chocolate para geeks".</dd>
-					<dt><strong>Reducción de costes:</strong></dt>
-						<dd>Un número importante de todas nuestras actividades se realizaran en Venezuela, el cual es actualmente el país con la mano de obra cualificada más económica del mundo. Esto nos permitirá tener precios sumamente competitivos sin sacrificar las retribuciones de nuestros accionistas.</dd>
-					<dt><strong>Accesibilidad:</strong></dt>
-						<dd>La accesibilidad a nuestros productos será otro factor para aumentar el valor de la compañía. La figura de los prosumidores será un factor clave para la ubiquidad de nuestros productos.</dd>
-					<dt><strong>Utilidad/Comodidad:</strong></dt>
-						<dd>Gran parte de nuestra propuesta de valor se basa en el entretenimiento y la pedagogía. Con la compra de nuestros productos se dará acceso a los chococoin, que como herramienta de marketing permitirá desbloquear juegos y cursos de programación destinados a toda la familia.</dd>
-				</dl>
+				        <p><strong>Productos y servicios novedosos:</strong>
+						Nuestro producto central será una página web destinada a ofrecer el conjunto de nuestros productos y los productos de terceros. Una página web en la cual se ofrecen servicios y productos no es algo novedoso, pero nuestra distinción se basa en la utilización de una <em>cryptomoneda</em> como herramienta de marcadeo.</p>
+				        <p><strong>Precio:</strong>
+						Queremos ofrecer una amplia gama de productos realizados por terceros en un primer estadio, por lo tanto debemos contemplar una amplia gama de precios. Estos pueden partir desde los productos que se ofrecen como premio a la fidelidad a productos destinados a segmentos de mercado especializado, con precios a la altura de la expectativas de dichos mercados.</p>
+				        <p><strong>Marca y Estatus:</strong>
+						La identidad del proyecto está vinculada a la tercera revolución industrial y sus características, y queremos despertar consciencia a nuestros clientes sobre ese hecho.<br>Por tanto, seremos la primera compañía de chocolate del mundo que trabaje en torno a ese concepto. Convirtiéndolo en algo público y notorio en la personalidad de nuestra marca, y vinculándolo de algún modo a la idea de "chocolate para geeks".</p>
+				        <p><strong>Reducción de costes:</strong>
+						Un número importante de todas nuestras actividades se realizaran en Venezuela, el cual es actualmente el país con la mano de obra cualificada más económica del mundo. Esto nos permitirá tener precios sumamente competitivos sin sacrificar las retribuciones de nuestros accionistas.</p>
+				        <p><strong>Accesibilidad:</strong>
+						La accesibilidad a nuestros productos será otro factor para aumentar el valor de la compañía. La figura de los prosumidores será un factor clave para la ubiquidad de nuestros productos.
+				        <p><strong>Utilidad/Comodidad:</strong>
+						Gran parte de nuestra propuesta de valor se basa en el entretenimiento y la pedagogía. Con la compra de nuestros productos se dará acceso a los chococoin, que como herramienta de marketing permitirá desbloquear juegos y cursos de programación destinados a toda la familia.</p>
 				</div>
-
+                <br>
 			<div id="canales">
-					<h2>#3</h2>
-					<div class="info" title="Este bloque analiza como una empresa alcanza al mercado elegido de clientes (#1) para llevarles la propuesta de valor (#2)"><img src="../SVimagenes/mark.png" alt="signo de interrogacion"></div>
+					<div class="info" title="Este bloque analiza como una empresa alcanza al mercado elegido de clientes (#1) para llevarles la propuesta de valor (#2)"></div>
 					<h1>Canales</h1>
 					
 					<p>El aspecto clave de todo proyecto es la logística; cómo hacer llegar los productos a todos los clientes sea donde sea que se encuentren.</p>
@@ -158,10 +174,10 @@
 					<p>En relacion a la post-venta buscamos mantener un contacto directo con nuestro cliente con el fin de conocer su opinión acerca nuestros productos, propuestas que querrían implementar o mejoras sugeridas.</p>
 
 					</div>
+					<br>
 
 			<div id="relaciones">
-				<h2>#4</h2>
-				<div class="info" title="El bloque de relación con los clientes analiza como la empresa se relaciona con los clientes definidos en el punto #1"><img src="../SVimagenes/mark.png" alt="signo de interrogacion"></div>
+				<div class="info" title="El bloque de relación con los clientes analiza como la empresa se relaciona con los clientes definidos en el punto #1"></div>
 				<h1>Relaciones con los Clientes</h1>
 				
 				 <p>Se establecerán diferentes niveles de comunicación con los clientes según el tipo de servicio o producto que estén adquiriendo.</p>
@@ -178,30 +194,30 @@
 				<p><strong>Creación Colectiva:</strong></p>
 				<p>La página web también será un espacio que incentive la creación artística. Cada usuario dispondrá de un espacio o galería en la que podrá mostrar sus trabajos artísticos y recibir feedback de otros usuarios, así como la posibilidad de realizar ventas, intercambios o donativos por su obra.</p> 
 				</div>
+				<br>
 
 			<div id="fuente">
-				<h2>#5</h2>
-				<div class="info" title="El bloque de fuente de ingresos representa el dinero que genera la empresa de cada uno de los segmentos de mercado definidos en el punto #1."><img src="../SVimagenes/mark.png" alt="signo de interrogacion"></div>
+				<div class="info" title="El bloque de fuente de ingresos representa el dinero que genera la empresa de cada uno de los segmentos de mercado definidos en el punto #1."></div>
 				<h1>Fuente de Ingresos</h1>
 				
 
 				<p><strong>Por venta de productos y servicios:</strong></p>
 				<p>La fuente de ingresos del proyecto se dará por la venta de productos a los consumidores mediante precios fijos. También se contempla la entrada de ingresos por los servicios ofrecidos a los productores entre ellos, como publicidad dentro de nuestra página web.</p>
 				</div>
+				<br>
 
 			<div id="recursos">
-				<h2>#6</h2>
-				<div class="info" title="En este bloque deberemos detectar los elementos de mayor importancia para que un negocio funcione"><img src="../SVimagenes/mark.png" alt="signo de interrogacion"></div>
+				<div class="info" title="En este bloque deberemos detectar los elementos de mayor importancia para que un negocio funcione"></div>
 				<h1>Recursos Claves</h1>
 				
 				<p>Nuestro recurso clave radica en la dimensión humana que queremos llegar a alcanzar mediante el uso de conceptos y tecnologías disruptivas, como la cadena de bloques y los contratos inteligentes. Creemos que la tecnología estos puede cambiar el mundo, así como sabemos que cambiará el mundo en lo que se denomina la tercera revolución industrial.</p>
 
 				<p>No sólo queremos tener voz en estos momentos de cambios, tambíen que queremos ofrecerla.</p>
 				</div>
+				<br>
 
 			<div id="actcl">
-				<h2>#7</h2>
-				<div class="info" title="En este bloque debemos identificar las acciones más importantes que una empresa debe ejecutar para que el modelo de negocio funcione."><img src="../SVimagenes/mark.png" alt="signo de interrogacion"></div>
+				<div class="info" title="En este bloque debemos identificar las acciones más importantes que una empresa debe ejecutar para que el modelo de negocio funcione."></div>
 				<h1>Actividades Claves</h1>
 				
 				<p><strong>Servicios:</strong></p>
@@ -209,19 +225,20 @@
 				<p><strong>Plataforma:</strong></p>
 				<p>La creación de la página web con todas las funcionalidades que tenemos proyectada permitirá la interacción del cliente con un universo de posibilidades, las cuales por un lado motivaran la fidelización de cliente y por otra ampliaran nuestras posibilidades de crear nueva fuentes de ingresos; por ejemplo el <em>merchandising.</em> </p>
 				</div>
+				<br>
 
 			<div id="asoclav">
-				<h2>#8</h2>
-				<div class="info" title="En este bloque debemos especificar la red de proveedores y socios estratégicos para que el modelo de negocio funcione"><img src="../SVimagenes/mark.png" alt="signo de interrogacion"></div>
+				<div class="info" title="En este bloque debemos especificar la red de proveedores y socios estratégicos para que el modelo de negocio funcione"></div>
 				<h1>Asociaciones Claves</h1>
 				
 
 				<p>La asociación clave del proyecto radica en los mismos clientes, a quienes no sólo queremos hacer partícipes de los logros de la compañía, sino también integrarlos en las actividades de la misma, tanto en la esfera de impacto social como en actividades para incrementar el valor del proyecto. En este aspecto buscaremos formarnos bajo la dinámica del <em>crowdsourcing</em>.</p> 
 				</div>
+				<br>
 
 			<div id="costos">
-				<h2>#9</h2>
-				<div class="info" title="En este último bloque se analizan todos los costos asociados a la puesta en marcha del modelo de negocio."><img src="../SVimagenes/mark.png" alt="signo de interrogacion"></div>
+				<div class="info" title="En este último bloque se analizan todos los costos asociados a la puesta en marcha del modelo de negocio.">
+				</div>
 				<h1>Estructura de Costos</h1>
 				
 				<p><strong>Modelo impulsado por el Costo:</strong></p>

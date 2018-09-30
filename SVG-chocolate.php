@@ -41,7 +41,7 @@ quizá no sea el negocio más delicioso, para quien no es muy amante del chocola
 pero para cualquiera es seguramente el mejor negocio que se puede hacer tanto si 
 se mira obtener dividendos como la satisfacción de alcanzar metas de índole social.</p>
 
-<a class="boton icono vermas"  href="interna.php"></a>
+<a class="boton icono vermas"  href="index.php"></a>
 
 </div>
 <!-- // cerro texto -->

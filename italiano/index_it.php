@@ -5,6 +5,7 @@
 <title>Bit &amp; Nibs</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" type="text/css" href="../estilos.css">
+<link rel="shortcut icon" href="../favicon.png" type="image/png">
 
 <script src="http://code.jquery.com/jquery-latest.js"></script>
 <script src="../SVsystem/js/utils.js"></script>
